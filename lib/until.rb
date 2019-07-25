@@ -5,4 +5,5 @@ def using_until
   counter += 1 
   puts "Wingardium Leviosa"
 end
+end
 
